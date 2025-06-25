@@ -1,4 +1,4 @@
-# 🤖 Chatbot API experto en Python
+# 🤖 Chatbot API DE NOTICIAS DEPORTIVAS
 Este proyecto es una API REST basada en FastAPI que funciona como un chatbot experto en noticias deportivas personalizables, Utiliza el modelo Mistral a través de OpenRouter (compatible con la API de OpenAI) para generar respuestas conversacionales.
 
 ## 🚀 Requisitos
